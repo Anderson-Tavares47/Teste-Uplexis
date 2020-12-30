@@ -1,0 +1,15 @@
+@import './normalize.scss';
+@import './reset.scss';
+@import '../../components/Banners/style.scss';
+@import '../../components/NavMenu/style.scss';
+@import '../../components/NavCard/style.scss';
+@import '../../components/Products/style.scss';
+@import '../../components/SelectOrder/style.scss';
+@import '../../components/ProductCard/style.scss';
+@import '../../components/ImageCarousel/style.scss';
+@import '../../components/InfoAbout/style.scss';
+
+.container {
+    margin: 0 1rem;
+};
+
